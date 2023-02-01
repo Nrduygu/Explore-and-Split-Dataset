@@ -1,1 +1,1 @@
-# Exploring-and-splitting-data
+# Exploring and Splitting Steps
